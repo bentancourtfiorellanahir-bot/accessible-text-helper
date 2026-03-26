@@ -30,3 +30,35 @@ La aplicación permite trabajar con texto de forma más accesible, combinando le
 - Python
 - pyttsx3
 
+## Cómo usarlo
+
+1. Instala la dependencia necesaria:
+```bash
+pip install pyttsx3
+```
+
+2. Ejecuta el programa:
+```bash
+python main.py
+```
+
+3. Al iniciar, escucharás y verás el menú principal con las opciones disponibles:
+- Leer texto en voz alta
+- Simplificar texto
+- Simplificar y leer
+- Ver voces disponibles
+- Configurar voz
+- Salir
+  
+Elige una opción escribiendo el número correspondiente y presiona Enter.
+
+
+Luego podrás:
+- Escribir un texto directamente
+- O ingresar la ruta de un archivo .txt
+
+
+El programa te guiará paso a paso con mensajes claros en pantalla y en audio.
+
+💡 Recomendación:
+Si es la primera vez que usas el programa, puedes ir a la opción 4 para ver las voces disponibles y luego a la opción 5 para configurar la que prefieras.
