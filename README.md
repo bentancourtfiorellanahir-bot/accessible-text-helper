@@ -47,16 +47,15 @@ Python
 pyttsx3 (text-to-speech)
 
 ## 📌 Casos de uso
-Estudiantes con dificultades de lectura
-Apoyo en educación inclusiva
-Adaptación de contenido educativo
+- Estudiantes con dificultades de lectura
+- Apoyo en educación inclusiva
+- Adaptación de contenido educativo
 
 ## 🔮 Próximas mejoras
-Interfaz gráfica simple
-Lectura de PDF
-Exportar audio
-Niveles de simplificación
+- Interfaz gráfica simple
+- Lectura de PDF
+- Exportar audio
+- Niveles de simplificación
 
 ## 👩‍💻 Autor
-Fiorella Bentancourt
-Educación especial + Python + accesibilidad
+Fiorella Bentancourt (Educación especial + Python + accesibilidad)
