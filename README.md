@@ -1,64 +1,62 @@
 # Accessible Text Helper
 
-Proyecto en Python enfocado en accesibilidad, que permite convertir texto a voz y simplificar contenido para facilitar su comprensión.
+Herramienta en Python pensada para mejorar la accesibilidad en el aprendizaje.
 
-## ¿De qué trata?
+Permite simplificar textos, leerlos en voz alta y trabajar con contenido de forma más clara, especialmente en contextos educativos inclusivos.
 
-Este proyecto nace como parte de mi proceso de aprendizaje en programación, pero con un enfoque claro: construir herramientas que tengan utilidad real.
+## 💡 ¿Por qué lo hice?
 
-La aplicación permite trabajar con texto de forma más accesible, combinando lectura en voz alta y simplificación de contenido, pensado especialmente para contextos educativos inclusivos.
+Trabajo en educación especial y necesitaba una forma simple de:
+- adaptar textos
+- reducir la complejidad del lenguaje
+- ofrecer apoyo auditivo a estudiantes
 
-## Funcionalidades principales
+Este proyecto nace de esa necesidad real.
 
-- 🔊 Convertir texto a audio (text-to-speech)
-- ✏️ Simplificar textos para facilitar su comprensión
-- 🔁 Opción de simplificar y luego leer el texto
-- 📂 Leer texto desde archivos `.txt`
-- ⚙️ Configurar velocidad, volumen e idioma de la voz
-- 🗣️ Listar voces disponibles en el sistema
-- 🧠 Mensajes guiados y claros para mejorar la experiencia de usuario
+## 🚀 Funcionalidades
 
-## ¿Para quién está pensado?
+- Conversión de texto a voz (text-to-speech)
+- Simplificación de contenido
+- Lectura de archivos `.txt`
+- Configuración de voz e idioma
 
-- Personas con discapacidad visual
-- Personas con dificultades de comprensión lectora
-- Contextos inclusivos
-- Cualquier persona que prefiera consumir contenido de forma auditiva
+## 🧪 Ejemplo de uso
 
-## Tecnologías utilizadas
+Entrada:
+"El sistema educativo contemporáneo presenta múltiples desafíos en términos de accesibilidad."
 
-- Python
-- pyttsx3
+Salida simplificada:
+"El sistema educativo tiene desafíos para que todos puedan acceder."
 
-## Cómo usarlo
+## ▶️ Cómo usarlo
 
-1. Instala la dependencia necesaria:
+1. Clonar el repositorio
 ```bash
-pip install pyttsx3
+git clone https://github.com/fiorellabentancourt/accessible-text-helper.git
 ```
 
-2. Ejecuta el programa:
+2. Ejecutar
 ```bash
-python main.py
+python3 main.py
 ```
 
-3. Al iniciar, escucharás y verás el menú principal con las opciones disponibles:
-- Leer texto en voz alta
-- Simplificar texto
-- Simplificar y leer
-- Ver voces disponibles
-- Configurar voz
-- Salir
-  
-Elige una opción escribiendo el número correspondiente y presiona Enter.
+3. Elegir opción del menú.
 
+🛠️ Tecnologías
+Python
+pyttsx3 (text-to-speech)
 
-Luego podrás:
-- Escribir un texto directamente
-- O ingresar la ruta de un archivo .txt
+📌 Casos de uso
+Estudiantes con dificultades de lectura
+Apoyo en educación inclusiva
+Adaptación de contenido educativo
 
+🔮 Próximas mejoras
+Interfaz gráfica simple
+Lectura de PDF
+Exportar audio
+Niveles de simplificación
 
-El programa te guiará paso a paso con mensajes claros en pantalla y en audio.
-
-💡 Recomendación:
-Si es la primera vez que usas el programa, puedes ir a la opción 4 para ver las voces disponibles y luego a la opción 5 para configurar la que prefieras.
+👩‍💻 Autor
+Fiorella Bentancourt
+Educación especial + Python + accesibilidad
