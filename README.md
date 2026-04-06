@@ -8,6 +8,7 @@
 ![Output](https://img.shields.io/badge/output-text%20%7C%20audio-orange)
 
 **A Python-based tool that simplifies text, improves readability, and enhances accessibility for users with different reading needs.**
+
 **Una herramienta en Python que simplifica texto, mejora la legibilidad y facilita el acceso a contenido para diferentes tipos de usuarios.**
 
 </div>
